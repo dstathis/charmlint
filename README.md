@@ -1,0 +1,2 @@
+# charmlint
+Operator Charm Linter
