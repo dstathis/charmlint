@@ -1,0 +1,3 @@
+Juju errors that should be checked by charmcraft build
+ERROR invalid config: empty configuration
+ERROR bad action name stress_test
